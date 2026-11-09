@@ -36,6 +36,4 @@ Sonvia includes BNB Smart Chain in its blockchain ecosystem, providing a foundat
 
 The project aims to explore further integration between AI-powered music creation, digital ownership, and blockchain-based experiences.
 
-## Repository
 
-[Sonvia Music GitHub Repository](https://github.com/Sonvia-ai/Sonvia-music)
